@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mwangi-Derrick
-- 👀 I’m interested in Machine Learning, Web Development , data science and cybersecurity
+- 👀 I’m interested in Machine Learning, Software Development , Data Science and Cybersecurity
 - 🌱 I’m currently learning python , C and dart
 - 💞️ I’m looking to collaborate on web development
 - 📫 Reach me via my email  mwangiderrick334@gmail.com
