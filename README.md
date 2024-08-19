@@ -1,3 +1,5 @@
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 - 👋 Hi, I’m @Mwangi-Derrick
 - 👀 I’m interested in Machine Learning, Software Development , Data Science and Cybersecurity
 - 🌱 I’m currently learning python , C and dart
