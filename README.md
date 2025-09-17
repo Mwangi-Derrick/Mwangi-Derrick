@@ -1,4 +1,4 @@
-![Mwangi-Derrick's Stats](https://github-readme-stats.vercel.app/api?username=Mwangi-Derrick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![Mwangi-Derrick's Stats](https://github-readme-stats.vercel.app/api?username=Mwangi-Derrick)](https://github.com/Mwangi-Derrick/github-readme-stats)
 - 👋 Hi, I’m @Mwangi-Derrick
 - 👀 I’m interested in software development,systems engineering and distributed systems
 - 🌱 I’m currently learning golang 
