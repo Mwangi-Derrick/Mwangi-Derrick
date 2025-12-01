@@ -151,6 +151,7 @@ A **full-stack AI study platform** built from scratch, helping students across A
 - 🦀 **Learning Rust** for high-performance systems programming
 - 🏗️ **Migrating to Kubernetes** on GKE for production deployment
 - 📚 **Building in public** and documenting my distributed systems journey
+- 💡 Developing **IoT solutions** for smart infrastructure, including automated and telemetry systems
 
 ---
 
