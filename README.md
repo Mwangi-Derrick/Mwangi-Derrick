@@ -57,10 +57,14 @@ Software Engineer with expertise in building **production-grade distributed syst
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Kong](https://img.shields.io/badge/-Kong-003459?style=flat&logo=kong&logoColor=white)
+![Caddy](https://img.shields.io/badge/-Caddy-00ADD8?style=flat&logo=caddy&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Envoy](https://img.shields.io/badge/-Envoy-000000?style=flat&logo=envoyproxy&logoColor=white)
 
 ### Message Brokers & Event Streaming
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
+![EMQX](https://img.shields.io/badge/-EMQX-3478F6?style=flat&logo=emqx&logoColor=white)
 
 ---
 
