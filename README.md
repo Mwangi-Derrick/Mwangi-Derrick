@@ -62,6 +62,7 @@ Software Engineer with expertise in building **production-grade distributed syst
 ### Message Brokers & Event Streaming
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Temporal](https://img.shields.io/badge/-Temporal-2CCCE4?style=flat&logo=temporal&logoColor=white)
 ![EMQX](https://img.shields.io/badge/-EMQX-3478F6?style=flat&logo=emqx&logoColor=white)
 
 ---
