@@ -182,7 +182,7 @@ I'm actively seeking **full-time opportunities** where I can:
 
 <div align="center">
 
-### ⚡ "Building the future, one microservice at a time"
+### ⚡ "Building the future, one line at a time"
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mwangi-Derrick&color=blue&style=flat)](https://github.com/Mwangi-Derrick)
 
