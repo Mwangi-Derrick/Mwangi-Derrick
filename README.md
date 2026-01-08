@@ -44,6 +44,8 @@ Software Engineer with expertise in building **production-grade distributed syst
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Gin](https://img.shields.io/badge/-Gin-000000?style=flat&logo=gin&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PyO3](https://img.shields.io/badge/-PyO3-3670A0?style=flat&logo=python&logoColor=FFD43B)
+![Tokio](https://img.shields.io/badge/-Tokio-000000?style=flat&logo=rust&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat&logo=google&logoColor=white)
 
 ### Databases & Storage
