@@ -161,6 +161,12 @@ The platform is built on three pillars:
 
 ### 💡 Smart Street Lighting System - IoT Infrastructure
 
+<div align="center">
+
+[![In Development](https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge)]()
+
+</div>
+
 **Industrial IoT platform for remote street light management** with OTA updates and real-time telemetry.
 
 #### 🎯 System Overview
@@ -230,20 +236,12 @@ A comprehensive end-to-end solution combining embedded firmware, cloud backend, 
 
 #### 📦 Quick Start
 
-```bash
-# Start infrastructure
-docker-compose up -d
 
-# Run backend
-cd backend
-go run cmd/main.go
-
-# Backend API available at localhost:8080
-```
 
 #### 🚀 Future Roadmap
 
 - [ ] Solar panel integration for off-grid deployment
+- [ ] OTA updates for firmware binaries
 - [ ] ML-based predictive maintenance
 - [ ] Mobile app for field technicians
 - [ ] Integration with GIS mapping systems
@@ -262,7 +260,7 @@ An AI-powered study platform serving students across Africa with intelligent doc
 - Event-driven architecture with RabbitMQ and Celery
 - Durable workflow management with Temporal
 - AI processing pipeline with document OCR and summarization
-- Payment integration with African providers (M-Pesa, Flutterwave)
+- Payment integration with African providers (M-Pesa, Lemon-squeezy)
 - Real-time content streaming to frontend clients
 
 ---
