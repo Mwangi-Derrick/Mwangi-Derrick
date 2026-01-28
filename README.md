@@ -280,11 +280,11 @@ An AI-powered study platform serving students across Africa with intelligent doc
 ## 🎯 Current Focus
 
 - 🚀 **Scaling Resplix**: Building customer onboarding flows and multi-cloud storage connectors
-- 🛟 **Migrating Summafy.io**: Migrating Summafy.io Ai document processing from python celery to rust and temporal
+- 🛟 **Migrating Summafy.io**: Optimizing Summafy.io AI pipeline by migrating from Python Celery to Rust & Temporal for lower latency and stronger fault tolerance.
 - 🦀 **Rust Mastery**: Deep-diving into async/await, SIMD optimizations, and zero-copy networking
 - 🏗️ **Kubernetes Migration**: Moving from Docker Compose to GKE for production deployment
 - 💡 **IoT Expansion**: Adding solar integration and predictive maintenance to street lighting system
-- 📚 **Building in Public**: Documenting distributed systems patterns and architectural decisions
+- 📚 **Building in Public**: Documenting system engineering patterns and architectural decisions
 
 ---
 
