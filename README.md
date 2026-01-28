@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-Software Engineer with expertise in building **production-grade distributed systems** and **event-driven microservices**. Currently building [**Summafy.io**](https://summafy.io) - an AI-powered study platform serving students across Africa with intelligent document summarization, quiz generation, and learning tools.
+Software Engineer specializing in **production-grade distributed systems**, **event-driven architectures**, and **IoT infrastructure**. I build scalable platforms that solve real-world problems—from AI-powered education tools serving students across Africa to industrial-grade data reliability systems.
 
 - 🎓 **EEE Student** at JKUAT, Kenya
-- 💼 **Open to opportunities** in backend, cloud, and distributed systems roles
-- 🏗️ Architecting scalable systems with **microservices**, **message queues**, and **Kubernetes**
-- 🌍 Passionate about solving real problems in emerging markets through technology
+- 💼 **Open to opportunities** in backend, cloud, distributed systems, and IoT roles
+- 🏗️ Building systems that combine **microservices**, **message queues**, **Kubernetes**, and **edge computing**
+- 🌍 Passionate about leveraging technology to solve infrastructure challenges in emerging markets
 
 ---
 
@@ -29,8 +29,8 @@ Software Engineer with expertise in building **production-grade distributed syst
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Frontend & UI
@@ -42,99 +42,228 @@ Software Engineer with expertise in building **production-grade distributed syst
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=gin&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PyO3](https://img.shields.io/badge/PyO3-3776AB?style=flat&logo=python&logoColor=white)
-![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat&logo=tokio&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat&logo=rust&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
 
 ### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Kong](https://img.shields.io/badge/-Kong-003459?style=flat&logo=kong&logoColor=white)
 ![Caddy](https://img.shields.io/badge/-Caddy-00ADD8?style=flat&logo=caddy&logoColor=white)
 
-### Message Brokers & Event Streaming
+### Message Brokers & IoT
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
+![EMQX](https://img.shields.io/badge/-EMQX-3478F6?style=flat&logo=eclipse-mosquitto&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 ![Temporal](https://img.shields.io/badge/-Temporal-2CCCE4?style=flat&logo=temporal&logoColor=white)
-![EMQX](https://img.shields.io/badge/-EMQX-3478F6?style=flat&logo=emqx&logoColor=white)
 
 ---
 
-## 🏆 Featured Project: Summafy.io
+## 🏆 Featured Projects
+
+### 🔐 Resplix - Industrial Data Reliability Infrastructure
 
 <div align="center">
   
-### 🎓 AI-Powered Study Platform | Production-Grade Microservices Architecture
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live-summafy.io-4285F4?style=for-the-badge)](https://summafy.io)
+[![Live Site](https://img.shields.io/badge/🌐_Live-resplix.com-4285F4?style=for-the-badge)](https://resplix.com)
+[![In Development](https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge)]()
 
 </div>
 
-A **full-stack AI study platform** built from scratch, helping students across Africa ace their studies through intelligent document analysis, summarization, flashcards, and quiz generation.
+**The unyielding nucleus for global data transit** — A zero-knowledge, customer-owned infrastructure platform for industrial-grade backup and data movement.
 
-### 🎯 Key Achievements
+#### 🎯 Core Innovation
 
-- 🏗️ **Architected and built 8+ production microservices** across multiple programming languages
-- ⚡ **Event-driven architecture** for async processing and reliable inter-service communication
-- 🔐 **Production-grade authentication & authorization** with modern identity management patterns
-- 💳 **Payment processing integration** with African and international payment providers
-- 🤖 **AI processing pipeline** handling document analysis, summarization, and quiz generation at scale
-- 🚢 **Cloud-native deployment** using containerization and orchestration platforms
-- 🌐 **API Gateway layer** with intelligent routing, rate limiting, and quota management
-- 📊 **Real-time data streaming** to frontend clients for live AI content generation
-- 🔄 **Polyglot service mesh** with efficient cross-service communication protocols
-- 🦀 **Performance-critical optimizations** using compiled languages for CPU-intensive operations
+Resplix reimagines data reliability by putting customers in control of their infrastructure while providing enterprise-grade orchestration:
 
-### 🛠️ High-Level Architecture
+- 🏗️ **Customer-Owned Architecture**: Customers maintain their own S3/GCS buckets and encryption keys — zero vendor lock-in
+- 🦀 **Rust-Powered Performance**: High-performance async streaming with <1.2% CPU overhead and 14MB memory footprint
+- 🔐 **Zero-Knowledge Security**: End-to-end encryption with keys never leaving customer infrastructure
+- ⚡ **Content-Addressable Storage**: Deduplication via BLAKE3 hashing and Gear Hash chunking for 90%+ efficiency
+- 🌍 **Polyglot Service Mesh**: Microservices in Rust, Go, and TypeScript communicating via gRPC and message queues
+
+#### 🛠️ Technical Architecture
 
 ```
 ┌──────────────────────────────────────────────────┐
-│           Web Frontend (Next.js/React)           │
+│      Web Console (Next.js + shadcn/ui)          │
 └────────────────────┬─────────────────────────────┘
                      │ REST/gRPC
 ┌────────────────────▼─────────────────────────────┐
-│          API Gateway & Request Router            │
-│        (Authentication, Rate Limiting)           │
+│     API Gateway (Kong/Caddy + Auth Layer)        │
 └────────────────────┬─────────────────────────────┘
                      │
         ┌────────────┼────────────┐
         │            │            │
 ┌───────▼──────┐ ┌──▼─────┐ ┌───▼────────┐
-│ Microservices│ │Identity│ │  Payment   │
-│   Cluster    │ │ & Auth │ │ Processing │
-│ (Polyglot)   │ │Service │ │   Service  │
+│ Orchestration│ │Identity│ │  Storage   │
+│Service (Rust)│ │& Auth  │ │ Connector  │
 └───────┬──────┘ └────────┘ └────────────┘
         │
 ┌───────▼──────────────────────────────────────────┐
-│      Event-Driven Message Bus & Queue System     │
-│        (Async Processing & Communication)        │
+│    Event-Driven Bus (EMQX/RabbitMQ/Temporal)     │
 └───────┬──────────────────────────────────────────┘
         │
 ┌───────▼──────────────────────────────────────────┐
-│  AI Processing Pipeline & Background Workers     │
-│     (Document Analysis, ML Inference, OCR)       │
+│  Backup Agents (Rust) in Customer VPCs           │
+│  • BLAKE3 Hashing • Zstd Compression             │
+│  • AES-256-GCM Encryption • Atomic Resumability  │
 └───────┬──────────────────────────────────────────┘
         │
 ┌───────▼──────────────────────────────────────────┐
-│   Data Layer: SQL, NoSQL, Cache, Object Store    │
+│   Customer's Cloud (S3/GCS/Azure/MinIO)          │
+│   (Encrypted chunks stored in customer bucket)   │
 └──────────────────────────────────────────────────┘
 ```
 
-**Architecture Principles:**
-- **Microservices**: Independent services in TypeScript, Python, and Go
-- **Event-Driven**: Async communication via message queues for scalability
-- **Polyglot Persistence**: Right database for each use case
-- **Cloud-Native**: Containerized with Docker, orchestrated with Kubernetes
+#### 💡 Key Features
 
+- **Zero-Knowledge Encryption**: AES-256-GCM encryption with customer-held keys
+- **Atomic Resumability**: Failed transfers resume from exact byte position via content-defined chunking
+- **95%+ Gross Margins**: Customer-owned storage model eliminates infrastructure costs
+- **Multi-Cloud Support**: S3, GCS, Azure Blob, MinIO, DigitalOcean Spaces
+- **SIMD-Accelerated Hashing**: 10GB/s+ per core with BLAKE3
+- **Real-Time Telemetry**: Live backup status via WebSocket streams
+- **CLI-First Design**: Production-grade CLI tool for developers (`pit` command)
+
+#### 📊 Business Model Innovation
+
+```
+Traditional Backup SaaS:
+Revenue: $500/mo → COGS: $320/mo (storage+bandwidth) → Margin: 36%
+
+Resplix Model:
+Revenue: $500/mo → COGS: $25/mo (compute only) → Margin: 95% 🚀
+```
+
+By letting customers own their storage buckets, Resplix achieves infinite scalability with near-zero marginal costs.
+
+#### 🔬 Technical Deep Dives
+
+The platform is built on three pillars:
+
+1. **Content-Addressable Storage (CAS)**: Immutable chunks identified by cryptographic hashes
+2. **Probabilistic Indexing**: Bloom filters for zero-latency duplicate detection
+3. **Durable Orchestration**: Temporal workflows for fault-tolerant task coordination
+
+*Read more*: [The Engineering Rosetta Stone](https://resplix.com/docs/rosetta-stone)
+
+---
+
+### 💡 Smart Street Lighting System - IoT Infrastructure
+
+**Industrial IoT platform for remote street light management** with OTA updates and real-time telemetry.
+
+#### 🎯 System Overview
+
+A comprehensive end-to-end solution combining embedded firmware, cloud backend, and real-time monitoring for municipal infrastructure.
+
+#### 🛠️ Architecture
+
+```
+┌──────────────────────────────────────────────────┐
+│  Street Light Nodes (Embedded C/ESP32)           │
+│  • Voltage/Current Monitoring • Remote Control   │
+│  • OTA Firmware Update Support • MQTT Client     │
+└────────────────────┬─────────────────────────────┘
+                     │ MQTT over cellular/WiFi
+┌────────────────────▼─────────────────────────────┐
+│         EMQX MQTT Broker (Containerized)         │
+│     • Topic-based routing • ACL management       │
+└────────────────────┬─────────────────────────────┘
+                     │
+┌────────────────────▼─────────────────────────────┐
+│       Backend API (Go + Gin Framework)           │
+│  • Device Management • Telemetry Aggregation     │
+│  • SIM Card Monitoring • OTA Update Distribution │
+└────────────────────┬─────────────────────────────┘
+                     │
+        ┌────────────┼────────────┐
+        │            │            │
+┌───────▼──────┐ ┌──▼─────┐ ┌───▼────────┐
+│   MongoDB    │ │MongoDB │ │   MinIO    │
+│  (Metadata)  │ │(Metrics)│ │ (Firmware) │
+└──────────────┘ └────────┘ └────────────┘
+```
+
+#### 💡 Key Features
+
+**Device Management**:
+- Remote on/off control via MQTT commands
+- Real-time status monitoring (online/offline)
+- Bulk operations for street segments
+
+**Telemetry & Analytics**:
+- Time-series storage for voltage, current, power consumption
+- Anomaly detection for electrical faults
+- Historical data visualization
+
+**OTA Firmware Updates**:
+- Binary firmware storage in MinIO (S3-compatible)
+- Secure firmware distribution via MQTT
+- Rollback support for failed updates
+- Version control and staged rollouts
+
+**SIM Management**:
+- Data usage tracking per device
+- Automated top-up integration
+- Cost monitoring and alerting
+
+#### 🔧 Tech Stack
+
+| Component | Technology |
+|-----------|-----------|
+| **Backend** | Go (Gin), MongoDB, MinIO |
+| **Messaging** | EMQX (MQTT Broker) |
+| **Embedded** | C/C++ (ESP32/STM32) |
+| **Infrastructure** | Docker Compose |
+| **Protocols** | MQTT, REST API |
+
+#### 📦 Quick Start
+
+```bash
+# Start infrastructure
+docker-compose up -d
+
+# Run backend
+cd backend
+go run cmd/main.go
+
+# Backend API available at localhost:8080
+```
+
+#### 🚀 Future Roadmap
+
+- [ ] Solar panel integration for off-grid deployment
+- [ ] ML-based predictive maintenance
+- [ ] Mobile app for field technicians
+- [ ] Integration with GIS mapping systems
+- [ ] Multi-tenant architecture for multiple municipalities
+
+---
+
+### 🎓 Summafy.io - AI Study Platform
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live-summafy.io-4285F4?style=for-the-badge)](https://summafy.io)
+
+An AI-powered study platform serving students across Africa with intelligent document summarization, quiz generation, and learning tools.
+
+**Tech Highlights**:
+- 5+ production microservices (Rust, TypeScript, Python, Go)
+- Event-driven architecture with RabbitMQ and Celery
+- Durable workflow management with Temporal
+- AI processing pipeline with document OCR and summarization
+- Payment integration with African providers (M-Pesa, Flutterwave)
+- Real-time content streaming to frontend clients
 
 ---
 
@@ -150,42 +279,44 @@ A **full-stack AI study platform** built from scratch, helping students across A
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Current Focus
 
-- 🚀 **Scaling Summafy.io** for growth across African universities
-- 🦀 **Learning Rust** for high-performance systems programming
-- 🏗️ **Migrating to Kubernetes** on GKE for production deployment
-- 📚 **Building in public** and documenting my distributed systems journey
-- 💡 Developing **IoT solutions** for smart infrastructure, including automated and telemetry systems
+- 🚀 **Scaling Resplix**: Building customer onboarding flows and multi-cloud storage connectors
+- 🛟 **Migrating Summafy.io**: Migrating Summafy.io Ai document processing from python celery to rust and temporal
+- 🦀 **Rust Mastery**: Deep-diving into async/await, SIMD optimizations, and zero-copy networking
+- 🏗️ **Kubernetes Migration**: Moving from Docker Compose to GKE for production deployment
+- 💡 **IoT Expansion**: Adding solar integration and predictive maintenance to street lighting system
+- 📚 **Building in Public**: Documenting distributed systems patterns and architectural decisions
 
 ---
 
-## 💼 Looking For
+## 💼 What I'm Looking For
 
 I'm actively seeking **full-time opportunities** where I can:
 
-- Build scalable backend systems and microservices
-- Work on distributed systems and cloud infrastructure
-- Contribute to products that solve real-world problems
+- Build scalable backend systems and microservices architectures
+- Work on distributed systems, cloud infrastructure, and data-intensive applications
+- Contribute to IoT platforms and edge computing solutions
+- Solve real-world problems in emerging markets
 - Learn from experienced engineers and grow my craft
 
-**Open to**: Backend Engineer, Full-Stack Engineer, Cloud Engineer, Distributed Systems roles
+**Open to**: Backend Engineer, Full-Stack Engineer, Cloud Engineer, Distributed Systems Engineer, IoT Engineer
 
 ---
 
 ## 📫 Get In Touch
 
 - 📧 Email: [mwangiderrick334@gmail.com](mailto:mwangiderrick334@gmail.com)
-- 💼 LinkedIn: [Mwangi Derrick](https://www.linkedin.com/in/derrick-mwangi-bab062276/)
-- 🌐 Project: [summafy.io](https://summafy.io)
-- 🐦 Open to collaboration on **open source** and **web systems**
+- 💼 LinkedIn: [Derrick Mwangi](https://www.linkedin.com/in/derrick-mwangi-bab062276/)
+- 🌐 Projects: [resplix.com](https://resplix.com) • [summafy.io](https://summafy.io)
+- 💬 Open to collaboration on **distributed systems**, **IoT platforms**, and **infrastructure tools**
 
 ---
 
 <div align="center">
 
-### ⚡ "Building the future, one line at a time"
+### ⚡ "Building resilient systems that scale — from bits to infrastructure"
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mwangi-Derrick&color=blue&style=flat)](https://github.com/Mwangi-Derrick)
+*Crafting the future of data reliability and intelligent infrastructure, one commit at a time.*
 
 </div>
