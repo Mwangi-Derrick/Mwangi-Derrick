@@ -2,7 +2,7 @@
   
 # 👋 Derrick Mwangi
 
-### Full-Stack Engineer | Distributed Systems | Cloud Architecture
+### Full-Stack Systems Engineer | Distributed Infrastructure | Cloud Architecture | Go & Rust
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/derrick-mwangi-bab062276/)
 [![Email](https://img.shields.io/badge/Email-mwangiderrick334%40gmail.com-red?style=flat&logo=gmail)](mailto:mwangiderrick334@gmail.com)
