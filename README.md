@@ -79,7 +79,7 @@ Software Engineer specializing in **production-grade distributed systems**, **ev
 
 </div>
 
-**The unyielding nucleus for global data transit** — A zero-knowledge, customer-owned infrastructure platform for industrial-grade backup and data movement.
+**Data reliability infrastructure platform that lets your engineers sleep through the night** — Verifiable, resumable, and customer-owned.
 
 #### 🎯 Core Innovation
 
