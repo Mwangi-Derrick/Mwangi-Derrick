@@ -289,6 +289,7 @@ An AI-powered study platform serving students across Africa with intelligent doc
 
 ## 🎯 Current Focus
 
+- 🦀 Obsessed: building infrastructure tools I'd actually use in production
 - 🚀 **Scaling Resplix**: Building customer onboarding flows and multi-cloud storage connectors
 - 🛟 **Migrating Summafy.io**: Optimizing Summafy.io AI pipeline by migrating from Python Celery to Rust & Temporal for lower latency and stronger fault tolerance.
 - 🦀 **Rust Mastery**: Deep-diving into async/await, SIMD optimizations, and zero-copy networking
