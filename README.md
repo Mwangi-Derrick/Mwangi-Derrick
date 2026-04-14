@@ -289,17 +289,17 @@ An AI-powered study platform serving students across Africa with intelligent doc
 
 ---
 
-## 💼 What I'm Looking For
+## 🤝 Looking For Partnerships & Collaborations
 
-I'm actively seeking **full-time opportunities** where I can:
+I'm building infrastructure-first startups and open to strategic partnerships:
 
-- Build scalable backend systems and microservices architectures
-- Work on distributed systems, cloud infrastructure, and data-intensive applications
-- Contribute to IoT platforms and edge computing solutions
-- Solve real-world problems in emerging markets
-- Learn from experienced engineers and grow my craft
+- **Early customers** for Resplix (data reliability infra with 95% margins)
+- **Infrastructure advisors** — especially in storage, security, or IoT
+- **Technical collaborators** — Rust, Go, distributed systems, or embedded/IoT
+- **Go-to-market partners** — African edtech (Summafy.io) or smart city IoT
+- **Investors** — pre-seed / angel for infrastructure tooling
 
-**Open to**: Backend Engineer, Full-Stack Engineer, Cloud Engineer, Distributed Systems Engineer, IoT Engineer
+Let's build: [Email](mailto:mwangiderrick334@gmail.com) | [LinkedIn](https://linkedin.com/in/derrick-mwangi-bab062276)
 
 ---
 
