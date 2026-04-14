@@ -81,6 +81,15 @@ Software Engineer specializing in **production-grade distributed systems**, **ev
 
 **Verifiable data movement** — cryptographic proof, atomic resumability, zero restarts from zero. Built so on-call engineers can finally sleep through the night.
 
+### 🩸 The Problem
+
+- 94% of companies have experienced backup failures
+- 58% of restore attempts fail (source: Veeam)
+- Most backup jobs restart from zero on any failure
+- Engineers discover corruption *during* disaster recovery
+
+**Resplix fixes this.**
+
 #### 🎯 Core Innovation
 
 Resplix reimagines data reliability by putting customers in control of their infrastructure while providing enterprise-grade orchestration:
