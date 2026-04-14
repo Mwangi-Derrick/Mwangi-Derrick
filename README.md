@@ -17,7 +17,8 @@
 Software Engineer specializing in **production-grade distributed systems**, **event-driven architectures**, and **IoT infrastructure**. I build scalable platforms that solve real-world problems—from AI-powered education tools serving students across Africa to industrial-grade data reliability systems.
 
 - 🎓 **EEE Student** at JKUAT, Kenya
-- 🏗️ Building systems that combine **microservices**, **message queues**, **Kubernetes**, and **edge computing**
+- 🦀 Love building **distributed systems** and **infrastructure tools**
+- 🏗️ Composing **microservices**, **message queues**, **Kubernetes**, and **edge computing**
 - 🌍 Passionate about leveraging technology to solve infrastructure challenges in emerging markets
 
 ---
@@ -316,7 +317,6 @@ Let's build: [Email](mailto:mwangiderrick334@gmail.com) | [LinkedIn](https://lin
 - 📧 Email: [mwangiderrick334@gmail.com](mailto:mwangiderrick334@gmail.com)
 - 💼 LinkedIn: [Derrick Mwangi](https://www.linkedin.com/in/derrick-mwangi-bab062276/)
 - 🌐 Projects: [resplix.com](https://resplix.com) • [summafy.io](https://summafy.io)
-- 💬 Open to collaboration on **distributed systems**, **IoT platforms**, and **infrastructure tools**
 
 ---
 
