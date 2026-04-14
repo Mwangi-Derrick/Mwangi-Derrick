@@ -79,7 +79,7 @@ Software Engineer specializing in **production-grade distributed systems**, **ev
 
 </div>
 
-**Data reliability infrastructure platform that lets your engineers sleep through the night** — Verifiable, resumable, and customer-owned.
+**Verifiable data movement** — cryptographic proof, atomic resumability, zero restarts from zero. Built so on-call engineers can finally sleep through the night.
 
 #### 🎯 Core Innovation
 
