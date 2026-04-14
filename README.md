@@ -266,8 +266,8 @@ A comprehensive end-to-end solution combining embedded firmware, cloud backend, 
 An AI-powered study platform serving students across Africa with intelligent document summarization, quiz generation, and learning tools.
 
 **Tech Highlights**:
-- 5+ production microservices (Rust, TypeScript, Python, Go)
-- Event-driven architecture with RabbitMQ and Celery
+- Production microservices (Rust, TypeScript, Python, Go)
+- Event-driven architecture with RabbitMQ
 - Durable workflow management with Temporal
 - AI processing pipeline with document OCR and summarization
 - Payment integration with African providers (M-Pesa, Lemon-squeezy)
