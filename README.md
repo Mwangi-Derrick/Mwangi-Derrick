@@ -31,7 +31,7 @@ Software Engineer specializing in **production-grade distributed systems**, **ev
 ![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat&logo=zig&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4B9A?style=flat&logo=cpu&logoColor=white)
+![Assembly](https://img.shields.io/badge/-x86_Assembly-0071C5?style=flat&logo=intel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
