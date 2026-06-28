@@ -86,7 +86,7 @@ Software Engineer specializing in **production-grade distributed systems**, **ev
 ### 🩸 The Problem
 
 - 94% of companies have experienced backup failures
-- 58% of restore attempts fail [source: Veeam](https://www.veeam.com/company/press-release/cxo-research-58-percent-of-data-backups-are-failing-creating-data-protection-challenges-and-limiting-digital-transformation-initiatives.html)
+- 58% of restore attempts fail ([source: Veeam](https://www.veeam.com/company/press-release/cxo-research-58-percent-of-data-backups-are-failing-creating-data-protection-challenges-and-limiting-digital-transformation-initiatives.html))
 - Most backup jobs restart from zero on any failure
 - Engineers discover corruption *during* disaster recovery
 
