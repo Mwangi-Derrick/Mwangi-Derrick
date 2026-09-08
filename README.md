@@ -118,11 +118,11 @@ Resplix reimagines data reliability by putting customers in control of their inf
         │            │            │
 ┌───────▼──────┐ ┌──▼─────┐ ┌───▼────────┐
 │ Orchestration│ │Identity│ │  Storage   │
-│Service (Rust)│ │& Auth  │ │ Connector  │
+│Service (Go)│ │& Auth  │ │ Connector  │
 └───────┬──────┘ └────────┘ └────────────┘
         │
 ┌───────▼──────────────────────────────────────────┐
-│    Event-Driven Bus (EMQX/RabbitMQ/Temporal)     │
+│   Workflow Orchestration (Temporal)     │
 └───────┬──────────────────────────────────────────┘
         │
 ┌───────▼──────────────────────────────────────────┐
