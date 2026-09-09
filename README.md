@@ -122,7 +122,7 @@ Resplix reimagines data reliability by putting customers in control of their inf
 └───────┬──────┘ └────────┘ └────────────┘
         │
 ┌───────▼──────────────────────────────────────────┐
-│   Workflow Orchestration (Temporal)     │
+│   Workflow Orchestration (Temporal)              │  
 └───────┬──────────────────────────────────────────┘
         │
 ┌───────▼──────────────────────────────────────────┐
