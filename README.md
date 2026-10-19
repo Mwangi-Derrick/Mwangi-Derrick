@@ -101,7 +101,6 @@ Resplix reimagines data reliability by putting customers in control of their inf
 - 🦀 **Rust-Powered Performance**: High-performance async streaming with <1.2% CPU overhead and 14MB memory footprint
 - 🔐 **Zero-Knowledge Security**: End-to-end encryption with keys never leaving customer infrastructure
 - ⚡ **Content-Addressable Storage**: Deduplication via BLAKE3 hashing and Gear Hash chunking for 90%+ efficiency
-- 🌍 **Polyglot Service Mesh**: Microservices in Rust, Go, and TypeScript communicating via gRPC and message queues
 
 #### 🛠️ Technical Architecture
 
