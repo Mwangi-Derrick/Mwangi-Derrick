@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Software Engineer specializing in **production-grade distributed systems**, **event-driven architectures**, **AI infra** and **IoT infrastructure**. I build scalable platforms that solve real-world problems—from AI-powered education tools serving students across Africa to industrial-grade data reliability systems.
+Software engineer focused on distributed systems, data infrastructure, and the systems behind AI pipelines: content-addressable storage, consensus and coordination, durable orchestration, and low-level performance in Rust and Go, applied to real problems in emerging markets.
 
 - 🎓 **EEE Student** at JKUAT, Kenya
 - 🦀 Love building **distributed systems** and **infrastructure tools**
