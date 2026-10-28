@@ -288,12 +288,11 @@ An AI-powered study platform serving students across Africa with intelligent doc
 
 ## 🎯 Current Focus
 
-- 🦀 Obsessed: building infrastructure tools I'd actually use in production
+- 🦀 **Obsessed**: building infrastructure tools I'd actually use in production
 - 🚀 **Scaling Resplix**: Building customer onboarding flows and multi-cloud storage connectors
-- 🛟 **Migrating Summafy.io**: Optimizing Summafy.io AI pipeline by migrating from Python Celery to Rust & Temporal for lower latency and stronger fault tolerance.
 - 🦀 **Rust Mastery**: Deep-diving into async/await, SIMD optimizations, and zero-copy networking
-- 🏗️ **Kubernetes Migration**: Moving from Docker Compose to GKE for production deployment
-- 💡 **IoT Expansion**: Adding solar integration and predictive maintenance to street lighting system
+- 📚 **Distributed Consensus & coordination**: going deep on Raft and Paxos, mapping them onto the durable orchestration in Resplix.
+- 🧱 **Distributed storage internals**: LSM-trees, B-trees, sharding and understand the tradeoffs (write-amp vs. read-amp).
 - 📚 **Building in Public**: Documenting system engineering patterns and architectural decisions
 
 ---
