@@ -106,27 +106,25 @@ Resplix reimagines data reliability by putting customers in control of their inf
 
 ```
 ┌──────────────────────────────────────────────────┐
-│      Web Console (Next.js + shadcn/ui)          │
+│      Web Console (Tanstack Start + shadcn/ui)    │
 └────────────────────┬─────────────────────────────┘
-                     │ REST/gRPC
-┌────────────────────▼─────────────────────────────┐
-│     API Gateway (Kong/Caddy + Auth Layer)        │
-└────────────────────┬─────────────────────────────┘
-                     │
+                     |
         ┌────────────┼────────────┐
         │            │            │
 ┌───────▼──────┐ ┌──▼─────┐ ┌───▼────────┐
 │ Orchestration│ │Identity│ │  Storage   │
-│Service (Go)│ │& Auth  │ │ Connector  │
+│Service (Go)│ │& Auth  │ │ Connector    │
 └───────┬──────┘ └────────┘ └────────────┘
         │
 ┌───────▼──────────────────────────────────────────┐
 │   Workflow Orchestration (Temporal)              │  
 └───────┬──────────────────────────────────────────┘
-        │
+        │ (gRPC)
 ┌───────▼──────────────────────────────────────────┐
 │  Backup Agents (Rust) in Customer VPCs           │
-│  • BLAKE3 Hashing • Zstd Compression             │
+│  • BLAKE3 Hashing • Zstd Compression             |
+│  • Content Defined Chunking (FastCDC)            |
+|  • Probabilstic indexing (Bloom and Xor filters) |
 │  • AES-256-GCM Encryption • Atomic Resumability  │
 └───────┬──────────────────────────────────────────┘
         │
