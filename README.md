@@ -14,7 +14,9 @@
 
 ## 🚀 About Me
 
-Software engineer focused on distributed systems, data infrastructure, and the systems behind AI pipelines: content-addressable storage, consensus and coordination, durable orchestration, and low-level performance in Rust and Go, applied to real problems in emerging markets.
+Software engineer focused on: content-addressable storage, consensus and coordination, durable orchestration, and low-level performance in Rust and Go — the systems behind AI pipelines and data infrastructure
+
+I care about applying that to real problems in emerging markets, where infrastructure constraints are the design brief, not an afterthought.
 
 - 🎓 **EEE Student** at JKUAT, Kenya
 - 🦀 Love building **distributed systems** and **infrastructure tools**
@@ -124,7 +126,7 @@ Resplix reimagines data reliability by putting customers in control of their inf
 │  Backup Agents (Rust) in Customer VPCs           │
 │  • BLAKE3 Hashing • Zstd Compression             |
 │  • Content Defined Chunking (FastCDC)            |
-|  • Probabilstic indexing (Bloom and Xor filters) |
+|  • Probabilistic indexing (Bloom and Xor filters) |
 │  • AES-256-GCM Encryption • Atomic Resumability  │
 └───────┬──────────────────────────────────────────┘
         │
