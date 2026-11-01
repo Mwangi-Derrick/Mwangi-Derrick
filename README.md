@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Software engineer focused on: content-addressable storage, consensus and coordination, durable orchestration, and low-level performance in Rust and Go — the systems behind AI pipelines and data infrastructure
+Software engineer focused on: content-addressable storage, consensus and coordination, durable orchestration, and low-level performance work in Rust and Go — the systems behind AI pipelines and data infrastructure.
 
 I care about applying that to real problems in emerging markets, where infrastructure constraints are the design brief, not an afterthought.
 
