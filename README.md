@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Derrick Mwangi
+# Hi there 👋 I'm Derrick Mwangi
 
 ### Full-Stack Systems Engineer | Distributed Infrastructure | Go & Rust
 
@@ -12,16 +12,15 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
+I am a software engineer focused on **content-addressable storage, consensus and coordination, durable orchestration, and low-level performance work in Rust and Go** — building the foundational systems behind AI pipelines and data infrastructure. 
 
-Software engineer focused on: content-addressable storage, consensus and coordination, durable orchestration, and low-level performance work in Rust and Go — the systems behind AI pipelines and data infrastructure.
+I care deeply about applying distributed systems engineering to real-world problems in **emerging markets**, where bandwidth, compute, and reliability constraints are the core design brief, not an afterthought.
 
-I care about applying that to real problems in emerging markets, where infrastructure constraints are the design brief, not an afterthought.
-
-- 🎓 **EEE Student** at JKUAT, Kenya
-- 🦀 Love building **distributed systems** and **infrastructure tools**
-- 🏗️ Composing **microservices**, **message queues**, **Kubernetes**, and **edge computing**
-- 🌍 Passionate about leveraging technology to solve infrastructure challenges in emerging markets
+- 🎓 **Education:** Electrical & Electronic Engineering (EEE) Student at **JKUAT, Kenya**
+- 🦀 **Core Focus:** Distributed systems, storage engines, and infrastructure tooling
+- 🏗️ **Architecture:** Microservices, message queues, Kubernetes, and edge computing
+- 🌍 **Mission:** Leveraging resilient technology to solve infrastructure challenges in emerging markets
 
 ---
 
