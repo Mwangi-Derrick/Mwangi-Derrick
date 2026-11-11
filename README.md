@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there 👋 I'm Derrick Mwangi
+# 👋 I'm Derrick Mwangi
 
 ### Full-Stack Systems Engineer | Distributed Infrastructure | Go & Rust
 
