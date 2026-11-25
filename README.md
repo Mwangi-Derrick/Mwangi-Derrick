@@ -259,11 +259,10 @@ A comprehensive end-to-end solution combining embedded firmware, cloud backend, 
 
 ---
 
-### 🎓 Summafy.io - AI Study Platform
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live-summafy.io-4285F4?style=for-the-badge)](https://summafy.io)
+### 🎓 Summafy.io - AI Study Platform (Sunsetted)
 
 An AI-powered study platform serving students across Africa with intelligent document summarization, quiz generation, and learning tools.
+Status: Successfully launched, operated, and sunsetted to focus on Distributed Storage systems (Resplix).
 
 **Tech Highlights**:
 - Production microservices (Rust, TypeScript, Python, Go)
@@ -272,6 +271,8 @@ An AI-powered study platform serving students across Africa with intelligent doc
 - AI processing pipeline with document OCR and summarization
 - Payment integration with African providers (M-Pesa, Lemon-squeezy)
 - Real-time content streaming to frontend clients
+
+Why I Sunsetted It: To reallocate 100% of my engineering bandwidth toward infrastructure tools (Resplix)." 
 
 ---
 
