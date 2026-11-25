@@ -272,7 +272,7 @@ Status: Successfully launched, operated, and sunsetted to focus on Distributed S
 - Payment integration with African providers (M-Pesa, Lemon-squeezy)
 - Real-time content streaming to frontend clients
 
-Why I Sunsetted It: To reallocate 100% of my engineering bandwidth toward infrastructure tools (Resplix)." 
+Why I Sunsetted It: To reallocate 100% of my engineering bandwidth toward infrastructure tools (Resplix).
 
 ---
 
