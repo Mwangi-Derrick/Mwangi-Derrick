@@ -303,7 +303,7 @@ Why I Sunsetted It: To reallocate my engineering bandwidth toward distributed st
 
 Open to conversations around:
 
-- **Early customers** Early design partners and pilots for Resplix
+- **Early customers** — Early design partners and pilots for Resplix
 - **Infrastructure advisors** — Infrastructure, storage, security, or embedded/IoT 
 - **Technical collaborators** — Rust, Go, distributed systems, or embedded/IoT
 - **Pre-seed / angel investors** — aligned with infrastructure-first software
