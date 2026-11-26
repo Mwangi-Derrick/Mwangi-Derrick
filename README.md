@@ -292,22 +292,21 @@ Why I Sunsetted It: To reallocate my engineering bandwidth toward distributed st
 
 - 🦀 **Obsessed**: building infrastructure tools I'd actually use in production
 - 🚀 **Scaling Resplix**: Building customer onboarding flows and multi-cloud storage connectors
-- 🦀 **Rust Mastery**: Deep-diving into async/await, SIMD optimizations, and zero-copy networking
+- 🦀 **Low-Level Systems & Networking**: Rust async/SIMD, kernel-space packet filtering (eBPF/XDP), io_uring.
 - 📚 **Distributed Consensus & coordination**: going deep on Raft and Paxos, mapping them onto the durable orchestration in Resplix.
-- 🧱 **Distributed storage internals**: LSM-trees, B-trees, sharding and understand the tradeoffs (write-amp vs. read-amp).
+- 🧱 **Distributed storage internals**: LSM-trees, B-trees, Merkle-integrity proofs, sharding and understand the tradeoffs (write-amp vs. read-amp).
 - 📚 **Building in Public**: Documenting system engineering patterns and architectural decisions
 
 ---
 
 ## 🤝 Looking For Partnerships & Collaborations
 
-I'm building infrastructure-first startups and open to strategic partnerships:
+Open to conversations around:
 
-- **Early customers** for Resplix (data reliability infra with 95% margins)
-- **Infrastructure advisors** — especially in storage, security, or IoT
+- **Early customers** Early design partners and pilots for Resplix
+- **Infrastructure advisors** — Infrastructure, storage, security, or embedded/IoT 
 - **Technical collaborators** — Rust, Go, distributed systems, or embedded/IoT
-- **Go-to-market partners** — African edtech (Summafy.io) or smart city IoT
-- **Investors** — pre-seed / angel for infrastructure tooling
+- **Pre-seed / angel investors** — aligned with infrastructure-first software
 
 Let's build: [Email](mailto:mwangiderrick334@gmail.com) | [LinkedIn](https://linkedin.com/in/derrick-mwangi-bab062276)
 
